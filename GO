@@ -1,1 +1,2 @@
 GOvnocode на Go
+GO GO GO [vno]
